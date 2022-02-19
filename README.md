@@ -18,6 +18,7 @@
 
 ![nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs)&nbsp;
 ![fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
+![hapijs](https://img.shields.io/badge/-Hapijs-05122A?style=flat&logo=hapijs)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
