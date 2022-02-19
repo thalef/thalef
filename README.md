@@ -3,7 +3,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalef&color=yellow" alt="Profile views" /> </p> -->
 <br>
 
-- 🔥 FullStack Developer
+- FullStack Developer
+- https://www.fontos.com.br
 
 <br>
 
