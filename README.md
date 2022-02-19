@@ -37,13 +37,17 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Centos](https://img.shields.io/badge/-Centos-05122A?style=flat&logo=centos)&nbsp;
 ![Rockylinux](https://img.shields.io/badge/-Rockylinux-05122A?style=flat&logo=rockylinux)&nbsp;
+![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 
 
 
