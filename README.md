@@ -12,9 +12,10 @@
 
 <br>
 
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 
 ![nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs)&nbsp;
 ![fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
